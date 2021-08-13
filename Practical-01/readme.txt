@@ -2,7 +2,7 @@ IN this practical we have created a Scala program for performing basic Arithmeti
 Like -:
 --> Addition
 --> Subtraction
---> Multiplacation
+--> Multiplication
 --> Divison
 --> Modulus
 
