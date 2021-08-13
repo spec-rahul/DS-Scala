@@ -5,4 +5,5 @@ Like -:
 --> Multiplication
 --> Divison
 --> Modulus
+--> Percentage ( approx )
 
