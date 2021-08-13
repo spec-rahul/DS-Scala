@@ -1,2 +1,2 @@
-IN this practical we write have witten a Scala program for performing basic Arithmetic Operations
+IN this practical we have created a Scala program for performing basic Arithmetic Operations
 
