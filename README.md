@@ -9,4 +9,3 @@ This Repository conatains the practicals that we perform in Scala
     Program to print all the data types and their values inside main method
     
 --> From Practical-04 all practicals in order
-    Program to Perform basic Artithmetic Operations ( Calculator )
